@@ -23,7 +23,7 @@ Proyecto Power BI. Dashboard de Recursos Humanos, Clase 02 - 4go Academy.  Inclu
 
 Para el modelo de datos se trabajó sobre una sábana de datos creada a partir de archivo de excel, además de usar tablas de calendario, medidas y parámetro. 
 
-## Muestra en línea: [Dashboard de Ventas](https://app.powerbi.com/view?r=eyJrIjoiNTVkYjYxZTItMjJiZS00NDVjLTlkMDQtOGE5NjVlNmUzNWYyIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
+## Muestra en línea: [Dashboard de RRHH](https://app.powerbi.com/view?r=eyJrIjoiNTVkYjYxZTItMjJiZS00NDVjLTlkMDQtOGE5NjVlNmUzNWYyIiwidCI6IjRkMDEwNTNlLTMxMGItNDg1Ni1hY2UwLWU2ZDM1ZDRjODIxMSJ9 "Informe en vivo")
 
 <!-- 
 ## Código Insertado
