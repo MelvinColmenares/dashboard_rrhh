@@ -15,8 +15,7 @@ Código HTML que puede pegar en un sitio web:
   <img src="https://melvincolmenares.github.io/dashboard_rrhh/gallery/img/img01.png"  width="90%">
 </p>
 
-Proyecto Power BI. Dashboard de Recursos Humanos
-Informe Demográfico.
+Proyecto Power BI. Dashboard de Recursos Humanos - Informe Demográfico.
 
 ## Descripción Prueba
 Proyecto Power BI. Dashboard de Recursos Humanos, Clase 02 - 4go Academy.  Incluye la información dempgráfica para el  período 2009-2021. Incluye segmentaciones, filtros y objetos  intereactivos y elementos dinámicos que permiten explorar y hacer distintintos análisis sobre la información de recursos humanos.
